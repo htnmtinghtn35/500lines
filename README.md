@@ -9,14 +9,13 @@ The production of this book has been made possible by the financial support of
 [PagerDuty](http://www.pagerduty.com/company/work-with-us/).
 
 <p align="center">
-    <img src="https://github.com/aosabook/500lines/raw/master/resource/pagerduty_logo.png" alt="PagerDuty Logo" />
-</p>
+    <img src="https://github.com/aosabook/500lines/raw/master/resource/pagerduty_l
 
 
 Mission
 -------
 
-Every architect studies family homes, apartments, schools, and other common
+
 types of buildings during her training.  Equally, every programmer ought to
 know how a compiler turns text into instructions, how a spreadsheet updates
 cells, and how a database efficiently persists data.
