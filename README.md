@@ -1,10 +1,6 @@
 *500 Lines or Less*
 ===================
 
-Creative Commons - Attribution license, and all code by the MIT License: please
-see the [license description](LICENSE.md) for details.  In addition, all
-royalties from paid-for versions will all go to Amnesty International.
-
 The production of this book has been made possible by the financial support of
 [PagerDuty](http://www.pagerduty.com/company/work-with-us/).
 
