@@ -19,8 +19,6 @@ cells, and how a database efficiently persists data.
 Previous books in the AOSA series have done this by describing the high-level
 architecture of several mature open-source projects. While the lessons learned
 from those stories are valuable, they are sometimes difficult to absorb for
-programmers who have not yet had to build anything at that scale.
-
 "500 Lines or Less" focuses on the design decisions and tradeoffs that
 experienced programmers make when they are writing code: 
 
