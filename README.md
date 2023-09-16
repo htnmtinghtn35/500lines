@@ -24,7 +24,6 @@ experienced programmers make when they are writing code:
 
 *   Why divide the application into these particular modules with these
     particular interfaces?
-*   Why use inheritance here and composition there?
 *   How do we predict where our program might need to be extended, and how can
     we make that easy for other programmers?
 
