@@ -14,8 +14,6 @@ Mission
 
 types of buildings during her training.  Equally, every programmer ought to
 know how a compiler turns text into instructions, how a spreadsheet updates
-cells, and how a database efficiently persists data.
-
 Previous books in the AOSA series have done this by describing the high-level
 architecture of several mature open-source projects. While the lessons learned
 from those stories are valuable, they are sometimes difficult to absorb for
